@@ -1,0 +1,14 @@
+.heck-yes {
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+}
+
+.heck-no {
+  background-color: #FFFF00;
+}
+
+.heck-yes,
+.heck-no {
+  font-size: 28px;
+  font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}

@@ -1,0 +1,19 @@
+.oddy {
+  background-color: rgba(255, 0, 0, 0.3);
+  font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+.coola {
+  font-size: 24px;
+}
+
+#numba2 {
+  color: #0000FF;
+  font-size: 36px;
+}
+
+#numba4 {
+  background-color: hsl(120, 100%, 75%);
+  font-size: 24px;
+  font-weight: bold; 
+}
