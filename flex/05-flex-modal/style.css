@@ -16,10 +16,31 @@ body {
 }
 
 .modal {
+  display: flex;
+  padding: 16px;
+  gap: 15px;
   background: white;
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+}
+
+.modal-content header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.text {
+  margin-top: 5px;
+}
+
+.action-buttons {
+  margin-top: 15px;
 }
 
 .icon {
